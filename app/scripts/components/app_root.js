@@ -1,7 +1,7 @@
 import React from "react";
 import { connect } from "react-redux";
 import container from "../containers/all.js";
-import BlogComponent from "../components/blog_component.js";
+import BlogComponent from "../components/blog_post.js";
 
 const AppRoot = React.createClass({
   render: function() {
